@@ -139,16 +139,6 @@ The goal is to understand how AI and data-driven techniques can be applied to re
 
 ---
 
-## 📜 Certifications
-
-### Microsoft Certified: Azure Data Fundamentals — DP-900
-
-Microsoft certification covering fundamental concepts related to data services, relational and non-relational data, analytics, and Azure data technologies.
-
-This certification helped strengthen my understanding of fundamental data concepts and cloud-based data solutions.
-
----
-
 ## 📚 Currently Learning
 
 ### ☕ Advanced Java & OOP
